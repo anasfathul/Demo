@@ -9,10 +9,10 @@ The goal of Demo is to ...
 
 ## Installation
 
-You can install the released version of Demo from [CRAN](https://CRAN.R-project.org) with:
+You can install the Demo package using the following line below:
 
 ``` r
-install.packages("Demo")
+devtools::install_github("anasmuhd/Demo", build_vignette = TRUE, build_opts = c())
 ```
 
 ## Example

@@ -6,7 +6,7 @@ Authors@R:
            family = "Muhammad",
            role = c("aut", "cre"),
            email = "muhdanas@uw.edu")
-Description: What the package does (one paragraph).
+Description: A demonstration of package building.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
